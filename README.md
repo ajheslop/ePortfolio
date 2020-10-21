@@ -27,4 +27,3 @@ Our porfolio task consisted of:
 - Guidance on how to approach this task: I suggest initialising a local repo and adding a code example from Week 1. After the initial commit, make some changes, then cut a new branch and make further changes there. Finally, create a pull request and merge in the changes made on the new branch to master.
 
 2. A short explanation (300 words max) of the differences between Centralised Version Control and Decentralised Version Control (edited) 
-
